@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/menu_item" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/cart_item" />
+
+        <item
+            android:id="@+id/home_address"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/homeaddress_item" />
+
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/orders_item" />
+
+        <!--<item-->
+            <!--android:id="@+id/language_icon"-->
+            <!--android:icon="@drawable/ic_language_black_24dp"-->
+            <!--android:iconTint="@android:color/white"-->
+            <!--android:title="@string/language_item" />-->
+
+        <item
+            android:id="@+id/discount_news"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/discount_news" />
+
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grilled Food</string>
+    <string name="slogan">Fast Order</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Eat it</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+
+    <string name="FACEBOOK_APP_ID">412499472630411</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">b5bdf54fb155694ede4e4c7fe956bd0f</string>
+    <string name="FACEBOOK_LOGIN_PROTOCOL_NAME">fb412499472630411</string>
+    <string name="egp">ج.م</string>
+    <string name="elmaadi">" المعادي"</string>
+    <string name="extraorders">طلبات أخرى</string>
+    <string name="desciption">التفاصيل</string>
+    <string name="menu_item">قائمة الطعام</string>
+    <string name="cart_item">سلة الطعام</string>
+    <string name="homeaddress_item">عنوان المنزل</string>
+    <string name="orders_item">الطلبات</string>
+    <string name="language_item">اللغة</string>
+    <string name="sign_out">تسجيل خروج</string>
+    <string name="main_dishes">أطباق رئيسية</string>
+    <string name="meals">وجبات</string>
+    <string name="sandwiches">سندوتشات</string>
+    <string name="choose_your_region">اختار منطقتك</string>
+    <string name="delivery_to">التوصيل إلى ..</string>
+    <string name="menu_list"> قائمة الطعام</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="delivery">خدمة التوصيل :</string>
+    <string name="free">مجاناً</string>
+    <string name="Added_to_Cart_Successfully">تم إضافة الطلب إلى السلة </string>
+    <string name="ElMaadi">"المعادي "</string>
+    <string name="ElSayedaZeinab">السيدة زينب</string>
+    <string name="MasrElQadema">مصر القديمة</string>
+    <string name="ElManial">المنيل</string>
+    <string name="ElFostat">الفسطاط</string>
+    <string name="GardenCity">"جاردن سيتي "</string>
+    <string name="Faisal">"فيصل "</string>
+    <string name="ElHaram">الهرم</string>
+    <string name="ElDokki">الدقي</string>
+    <string name="ElAgoza">العجوزة</string>
+    <string name="ElMohandesen">المهندسين</string>
+    <string name="Cairo">"محافظة القاهرة "</string>
+    <string name="Giza">محافظة الجيزة</string>
+    <string name="Menu">قائمة الطعام</string>
+    <string name="Regions">المناطق</string>
+    <string name="total">الإجمالي: </string>
+    <string name="deliveryfees">قيمة التوصيل: </string>
+    <string name="place_order">تنفيذ الطلب</string>
+    <string name="SelectYourRegion">اختار منطقتك </string>
+    <string name="extra_rice">طلب إضافي : طبق أرز , </string>
+    <string name="quantity">الكمية :</string>
+    <string name="subscribe_to_discount_news">اشترك في اخر اخبار الخصومات </string>
+    <string name="discount_news">"الإشعارات "</string>
+    <string name="Otherchoices">طلبات إضافية</string>
+    <string name="Kilo">كيلو</string>
+    <string name="enter_with_your_number">سجل الدخول عن طريق رقمك</string>
+
+
+</resources>

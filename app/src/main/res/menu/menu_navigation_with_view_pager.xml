@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_orders"
+        android:icon="@drawable/meal"
+        android:title="@string/main_dishes"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/menu_meal"
+        android:icon="@drawable/turkey"
+        android:title="@string/meals"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/menu_sandwich"
+        android:icon="@drawable/sandwich"
+        android:title="@string/sandwiches"
+        app:showAsAction="ifRoom" />
+
+</menu>

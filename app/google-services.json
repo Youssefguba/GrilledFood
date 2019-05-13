@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031413659531",
+    "firebase_url": "https://grilledfood-c48c3.firebaseio.com",
+    "project_id": "grilledfood-c48c3",
+    "storage_bucket": "grilledfood-c48c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031413659531:android:e33dbd9758e38ee6",
+        "android_client_info": {
+          "package_name": "com.example.grilledfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031413659531-ka1gofck4luiimbhnm5vmjsf7h0pbfoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grilledfood",
+            "certificate_hash": "768a4db9859f20269ce5666e39faeb9ae0b30410"
+          }
+        },
+        {
+          "client_id": "1031413659531-p22hrrrmojvrufe0fb7qsc0aunnerbuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMRMX_iqtg7LFSN7hXDL1AQl-dSplghY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031413659531-p22hrrrmojvrufe0fb7qsc0aunnerbuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
